@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AUTOMATIZACION_PIBANK_NO_FUNCIONAL\\ORQUESTADOR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{161B76A4-4F2E-4040-B2F6-7B5B47B6FC47}|MSTest\\MSTest.csproj|d:\\automatizacion_pibank_no_funcional\\orquestador\\mstest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{161B76A4-4F2E-4040-B2F6-7B5B47B6FC47}|MSTest\\MSTest.csproj|solutionrelative:mstest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA1B53AC-7BC0-4446-96D1-8B92BE9DE3D9}|ORQUESTADOR\\ORQUESTADOR.csproj|d:\\automatizacion_pibank_no_funcional\\orquestador\\orquestador\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA1B53AC-7BC0-4446-96D1-8B92BE9DE3D9}|ORQUESTADOR\\ORQUESTADOR.csproj|solutionrelative:orquestador\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 82,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 318,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\AUTOMATIZACION_PIBANK_NO_FUNCIONAL\\ORQUESTADOR\\MSTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "MSTest\\UnitTest1.cs",
+              "ToolTip": "D:\\AUTOMATIZACION_PIBANK_NO_FUNCIONAL\\ORQUESTADOR\\MSTest\\UnitTest1.cs",
+              "RelativeToolTip": "MSTest\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T20:05:26.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\AUTOMATIZACION_PIBANK_NO_FUNCIONAL\\ORQUESTADOR\\ORQUESTADOR\\Program.cs",
+              "RelativeDocumentMoniker": "ORQUESTADOR\\Program.cs",
+              "ToolTip": "D:\\AUTOMATIZACION_PIBANK_NO_FUNCIONAL\\ORQUESTADOR\\ORQUESTADOR\\Program.cs",
+              "RelativeToolTip": "ORQUESTADOR\\Program.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAqwJMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T20:40:53.677Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 333,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

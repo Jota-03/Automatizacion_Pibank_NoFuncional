@@ -1,0 +1,3 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1740523889982,932,Autenticación,200,OK,Thread Group 1-1,text,true,,1948,570,1,1,https://axa-colpatria-ciam-test.us.auth0.com/oauth/token,931,0,476
+1740523890947,406,Consulta,200,OK,Thread Group 1-1,text,true,,8081,1531,1,1,https://axa-colpatria-ciam-test.us.auth0.com/api/v2/users,406,0,0
